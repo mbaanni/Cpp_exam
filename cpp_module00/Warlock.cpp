@@ -2,7 +2,7 @@
 
 Warlock::Warlock()
 {
-
+    std::cout << name << ": This looks like another boring day."<<std::endl;
 }
 
 Warlock::~Warlock()
